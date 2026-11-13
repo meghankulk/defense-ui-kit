@@ -2,7 +2,7 @@
 
 A component library, product ontology and interactive product builder for drone defense software, derived from public Skydio marketing screenshots as a design study.
 
-Live site: https://meghankulk.github.io/defense-ui-kit/
+Live site: https://meghanportfolio.com/defense-ui-kit/
 
 | Page | What it is |
 |---|---|
