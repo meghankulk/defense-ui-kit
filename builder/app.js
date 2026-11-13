@@ -119,7 +119,7 @@ function renderBuilder(){
         <div class="card2 wide2"><span class="cap">Design checks by screen</span><div class="cm" id="pbChecks"><p class="hint">Running checks…</p></div></div>
         <div class="card2 wide2"><span class="cap">Open questions this product inherits</span><div class="gaps" id="pbGaps"></div></div>
       </div>
-      <div class="exp"><button class="btnp pri" type="button" id="expMD">Copy product spec</button><button class="btnp" type="button" id="expJSON">Copy as JSON</button><a class="btnp" href="https://claude.ai/artifact/X1NuA7R8ZepS2nANNVBaAL">Run it in Live Ops ↗</a><span class="hint" id="expMsg"></span><span class="hint" id="pbNotes"></span></div>
+      <div class="exp"><button class="btnp pri" type="button" id="expMD">Copy product spec</button><button class="btnp" type="button" id="expJSON">Copy as JSON</button><a class="btnp" href="live.html">Run it in Live Ops ↗</a><span class="hint" id="expMsg"></span><span class="hint" id="pbNotes"></span></div>
     </div>
   </div><div id="offscreen" class="sky" aria-hidden="true"></div>`;
 }
